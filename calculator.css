@@ -1,0 +1,23 @@
+.calc{
+    width:400px;
+    height:600px;
+    background-color: grey;
+    margin-left: 35%;
+    
+}
+
+#screen{
+width:80%;
+height: 100px;
+margin-top: 35px;
+margin-left: 35px;
+pointer-events: none; /*doesnot allow to erite any text inside output screen using keybord*/
+}
+.btn{
+    width:60px;
+    height:60px;
+    margin-top: 30px;
+    margin-left: 29px;
+    background-color: indianred;
+font-weight: bolder;
+}
